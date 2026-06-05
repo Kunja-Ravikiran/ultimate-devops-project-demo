@@ -1,5 +1,6 @@
 # Product Catalog Service
 
+
 When this service is run the output should be similar to the following
 
 ```
@@ -40,3 +41,4 @@ To bump all dependencies run:
 go get -u -t ./...
 go mod tidy
 ```
+
