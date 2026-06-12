@@ -35,6 +35,7 @@ make docker-generate-protobuf
 
 ## Bump dependencies
 
+
 To bump all dependencies run:
 
 ```sh
